@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gamze Erkan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **EST App**
+- 🔭 I’m currently working on **Erkan Media App**
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
